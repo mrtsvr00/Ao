@@ -1,1 +1,1 @@
-Bot.Lua
+Bot.lua
